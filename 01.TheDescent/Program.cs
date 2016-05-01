@@ -22,7 +22,7 @@ class Program
 
             // Write an action using Console.WriteLine()
             // To debug: Console.Error.WriteLine("Debug messages...");
-
+             
             Console.WriteLine(mountToShoot); // The number of the mountain to fire on.
         }
     }
