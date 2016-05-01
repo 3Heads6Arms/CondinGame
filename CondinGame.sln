@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Temperatures", "05.Tempe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.ASCIIArt", "06.ASCIIArt\06.ASCIIArt.csproj", "{692E07A6-516F-4981-A692-BE9E96DE32D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.ChuckNorris", "07.ChuckNorris\07.ChuckNorris.csproj", "{A61EB3CB-073A-4219-9401-C16F3D4D5236}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{692E07A6-516F-4981-A692-BE9E96DE32D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{692E07A6-516F-4981-A692-BE9E96DE32D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{692E07A6-516F-4981-A692-BE9E96DE32D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A61EB3CB-073A-4219-9401-C16F3D4D5236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A61EB3CB-073A-4219-9401-C16F3D4D5236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A61EB3CB-073A-4219-9401-C16F3D4D5236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A61EB3CB-073A-4219-9401-C16F3D4D5236}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
