@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.PowerOfThor", "02.PowerO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.SkynetTheChasm", "03.SkynetTheChasm\03.SkynetTheChasm.csproj", "{3F07ABF1-5554-449D-85AA-D6AC43FBA8D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.MarsLander", "04.MarsLander\04.MarsLander.csproj", "{C720F7F9-9FD4-46CC-9A37-CA63B8BC7CBD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{3F07ABF1-5554-449D-85AA-D6AC43FBA8D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F07ABF1-5554-449D-85AA-D6AC43FBA8D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F07ABF1-5554-449D-85AA-D6AC43FBA8D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C720F7F9-9FD4-46CC-9A37-CA63B8BC7CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C720F7F9-9FD4-46CC-9A37-CA63B8BC7CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C720F7F9-9FD4-46CC-9A37-CA63B8BC7CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C720F7F9-9FD4-46CC-9A37-CA63B8BC7CBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
