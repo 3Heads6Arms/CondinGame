@@ -31,3 +31,17 @@ Input for a game round
 Line 1: the number of remaining moves for Thor to reach the light of power: remainingTurns. You can ignore this data but you must read it.
 Output for a game round
 A single line providing the move to be made: N NE E SE S SW W ou NW
+
+Constraints
+0 ≤ lightX < 40
+0 ≤ lightY < 18
+0 ≤ initialTX < 40
+0 ≤ initialTY < 18
+Response time for a game round ≤ 100ms
+Synopsis
+
+The final battle of Ragnarök, the twilight of the gods is approaching. You incarnate Thor who is participating in this final battle against all the forces of evil, led by Loki, Thor's wizard brother.
+
+Thor was wounded during a previous battle against Fenrir, the wolf-god. During the battle, Loki took advantage of the general confusion and used his magic to annihilate the magical powers of Thor’s hammer, Mjöllnir, by separating it from his soul: the light of power.
+
+Thor, who now feels very weak, must find and reach the light of power, as fast as possible, since it is the only thing which can restore his and Mjollnir's powers.
